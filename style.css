@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background: linear-gradient(to right, #d1c4e9, #bbdefb); /* Soft background gradient */
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -32,9 +32,11 @@ header h1 {
 }
 
 #main-image {
-    max-width: 100%;
+    max-width: 50%; /* Resize the PNG image to be smaller */
     height: auto;
     border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add some shadow to make the image stand out */
 }
 
 /* Content Section */
