@@ -1,5 +1,3 @@
-// GIVE ALL CREDIT TO ELK, PLEASE!!
-//     MY DISCORD IS @2elk !!!!
 
 $(document).ready(function() {
     
